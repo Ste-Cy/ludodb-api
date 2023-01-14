@@ -9,6 +9,9 @@ const sequelize = new Sequelize(
     host: config.DATABASE_HOST,
     port: config.DATABASE_PORT,
     dialect: 'postgres',
+    dialectOptions: {
+      ssl: config.DATABASE_SSL,
+    },
     logging: false,
     define: {
       freezeTableName: true, // le nom du model correspond au nom de la table

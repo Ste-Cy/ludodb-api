@@ -7,6 +7,7 @@ class Config {
     this.PORT = process.env.PORT || 3000;
     this.DATABASE_HOST = process.env.DB_HOST;
     this.DATABASE_PORT = process.env.DB_PORT;
+    this.DATABASE_SSL = process.env.DB_SSL;
     this.DATABASE_NAME = process.env.DB_NAME;
     this.DATABASE_USERNAME = process.env.DB_USER;
     this.DATABASE_PASSWORD = process.env.DB_PASS;
