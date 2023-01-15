@@ -19,11 +19,10 @@ const game = (sequelize, DataTypes) => {
       type: DataTypes.STRING,
       get() {
         const img = this.getDataValue('cover');
-        if (img) {
-          const imgUrl = `${config.MEDIA_URL}/${img}`;
-          return imgUrl;
+        if (img === null) {
+          return `${config.MEDIA_URL}/${config.DEFAULT_COVER}`;
         }
-        return null;
+        return `${config.MEDIA_URL}/${img}`;
       },
     },
     yearPub: { // publication year

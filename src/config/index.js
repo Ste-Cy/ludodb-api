@@ -19,6 +19,7 @@ class Config {
     this.MEDIA_BASE = '/media';
     this.MEDIA_URL = this.HOST + this.MEDIA_BASE;
     this.UPLOAD_FOLDER = 'static/uploads';
+    this.DEFAULT_COVER = 'no-image.webp';
     // CONFIG SECRET
     this.JWT_SECRET = process.env.JWT_SECRET;
   }
