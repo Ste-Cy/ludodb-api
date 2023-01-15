@@ -20,7 +20,8 @@ const game = (sequelize, DataTypes) => {
       get() {
         const img = this.getDataValue('cover');
         if (img) {
-          return `${config.MEDIA_URL}/${img}`;
+          const imgUrl = `${config.MEDIA_URL}/${img}`;
+          return imgUrl;
         }
         return null;
       },

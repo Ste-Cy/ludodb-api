@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
 app.use(config.API_BASE, routes);
 
 // dossier des média
-app.use('/media', express.static(config.UPLOAD_FOLDER));
+app.use(config.MEDIA_BASE, express.static(config.UPLOAD_FOLDER));
 
 app.use(({ res }) => {
   res.status(404).json({ status: 'error', message: 'ressource not found' });

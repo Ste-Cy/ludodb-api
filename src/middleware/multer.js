@@ -6,8 +6,6 @@ const config = require('../config');
  * multer middleware - file upload handler
  */
 
-const uploadFolder = config.UPLOAD_FOLDER;
-
 const MIME_TYPES = {
   'image/jpg': 'jpg',
   'image/jpeg': 'jpg',
@@ -18,7 +16,7 @@ const MIME_TYPES = {
 // Définition du chemin et nom du fichier
 const storage = multer.diskStorage({
   destination: (req, file, callback) => {
-    callback(null, uploadFolder);
+    callback(null, config.UPLOAD_FOLDER);
   },
   filename: (req, file, callback) => {
     // récupération extension fichier image envoyé

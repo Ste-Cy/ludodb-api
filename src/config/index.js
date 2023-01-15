@@ -4,17 +4,23 @@ class Config {
    * @class Config
    */
   constructor() {
-    this.PORT = process.env.PORT || 3000;
-    this.DATABASE_HOST = process.env.DB_HOST;
-    this.DATABASE_PORT = process.env.DB_PORT;
-    this.DATABASE_SSL = process.env.DB_SSL;
-    this.DATABASE_NAME = process.env.DB_NAME;
-    this.DATABASE_USERNAME = process.env.DB_USER;
-    this.DATABASE_PASSWORD = process.env.DB_PASS;
-    this.JWT_SECRET = process.env.JWT_SECRET;
+    // CONFIG SERVER
+    this.HOST = process.env.HOST;
+    this.PORT = process.env.PORT;
+    // CONFIG DB
+    this.DB_HOST = process.env.DB_HOST;
+    this.DB_PORT = process.env.DB_PORT;
+    this.DB_SSL = process.env.DB_SSL;
+    this.DB_NAME = process.env.DB_NAME;
+    this.DB_USER = process.env.DB_USER;
+    this.DB_PASS = process.env.DB_PASS;
+    // CONFIG PATH
     this.API_BASE = '/api';
+    this.MEDIA_BASE = '/media';
+    this.MEDIA_URL = this.HOST + this.MEDIA_BASE;
     this.UPLOAD_FOLDER = 'static/uploads';
-    this.MEDIA_URL = 'http://localhost:3000/media';
+    // CONFIG SECRET
+    this.JWT_SECRET = process.env.JWT_SECRET;
   }
 }
 

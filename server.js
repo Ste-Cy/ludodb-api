@@ -10,7 +10,9 @@ sequelize
     sequelize.sync()
       .then(() => {
         app.listen(config.PORT, () => {
-          console.log(`Server listening at http://localhost:${config.PORT}`);
+          if (process.env.NODE_ENV === 'development') {
+            console.log(`Server listening at ${config.HOST}`);
+          }
         });
       })
       .catch((error) => { throw new Error(error); });
