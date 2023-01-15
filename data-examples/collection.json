@@ -1,0 +1,178 @@
+[
+  {
+    "title": "7 Wonders",
+    "cover": "IMG-001.webp",
+    "yearPub": 2010,
+    "playerMin": 2,
+    "playerMax": 7,
+    "durationMinutesMin": 30,
+    "durationMinutesMax": 30,
+    "age": 10,
+    "description": "7 Wonders est un jeu de draft dans lequel vous êtes à la tête de l'une des sept grandes cités du monde antique. Votre but est de faire prospérer votre ville pour la rendre plus influente que celles de vos adversaires. Pour inscrire votre cité dans l'Histoire, vous devrez agir dans différents secteurs de développement. Exploitez les ressources naturelles de vos terres, participez aux progrès scientifiques, développez vos relations commerciales et affirmez votre suprématie militaire. Laissez votre empreinte dans l'histoire des civilisations en bâtissant une merveille monumentale."
+  },
+  {
+    "title": "Azul",
+    "cover": "IMG-002.webp",
+    "yearPub": 2017,
+    "playerMin": 2,
+    "playerMax": 4,
+    "durationMinutesMin": 30,
+    "durationMinutesMax": 60,
+    "age": 8,
+    "description": "Dans Azul, vous incarnez un artisan au 16ème siècle chargé de décorer le Palais Royal de Evora, demeure somptueuse du Roi du Portugal. Pour cela, vous devrez faire parler votre fibre artiste et vos talents d'artisan afin de constituer la plus belle des mosaïques. La tâche s'annonce délicate et la concurrence sera rude. D'autres concurrents sont dans la course et ont bien d'intention de vous empêcher de remplir votre mission. Seule la plus belle fresque ornera les murs du palais. Devenez l'artisan le plus prestigieux de la royauté !"
+  },
+  {
+    "title": "Caverna",
+    "cover": "IMG-003.webp",
+    "yearPub": 2020,
+    "playerMin": 1,
+    "playerMax": 7,
+    "durationMinutesMin": 120,
+    "durationMinutesMax": 120,
+    "age": 12,
+    "description": "Dans ce jeu de pose d'ouvriers vous incarnez des nains aventureux vivants reclus dans leurs cavernes. Vous creuserez grottes et tunnels à la recherche de rubis et de minerai, et les aménagerez pour créer, tant des espaces habitables que des zones de travail. Vous aurez besoin de minerai pour forger les armes indispensables aux expéditions que vous entreprendrez, en quête d'aventures et de butins. Les rubis sont une ressource précieuse et éminemment souple : vous pouvez les échanger contre des ressources et des tuiles Terrain à tout moment. Devant l'entrée de vos cavernes, vous chercherez à assurer votre subsistance en abattant des arbres, en élevant des animaux et en pratiquant l'agriculture."
+  },
+  {
+    "title": "Clank!",
+    "cover": "IMG-004.webp",
+    "yearPub": 2017,
+    "playerMin": 2,
+    "playerMax": 4,
+    "durationMinutesMin": 60,
+    "durationMinutesMax": 60,
+    "age": 12,
+    "description": "Les souterrains sous la Tour du Dragon sont réputés pour être l'endroit le plus dangereux du Royaume. Seuls les roublards les plus intrépides peuvent s'y faufiler pour voler le Dragon et en revenir vivants pour raconter leur histoire. C'est ainsi que vous et vos semblables avez mis en jeu votre réputation de voleurs pour relever le défi. Au cours du chemin, vous allez recruter des alliés et mettre la main sur des trésors. Mais un faux pas et… CLANK ! Le bruit risque d'attirer l'attention du dragon, et plus d'artefacts seront volés, plus cela augmentera sa fureur ! Soyez plus discret que vos compères, si vous espérez vous en sortir vivant…Clank! est un jeu de construction de deck. Chaque joueur possède son propre paquet de cartes qu'on appelle un deck, dont l'élaboration constitue une part importante de la mécanique de jeu."
+  },
+  {
+    "title": "Dixit",
+    "cover": "IMG-005.webp",
+    "yearPub": 2014,
+    "playerMin": 3,
+    "playerMax": 6,
+    "durationMinutesMin": 30,
+    "durationMinutesMax": 30,
+    "age": 8,
+    "description": "Une image vaut mille mots ! Dixit un jeu magnifiquement illustré, qui fait appel à l'imagination et à l'intuition. Pour trouver l'image clé, laissez-vous porter par vos idées ! Premier jeu édité par Libellud, Dixit vous propose un matériel de grande qualité aux graphismes somptueux. Le jeu comprend entre autre 84 cartes Images grand format toutes originalement illustrées par Marie Cardouat. Un jeu multi primé à travers le monde !"
+  },
+  {
+    "title": "Dune : Imperium",
+    "cover": "IMG-006.webp",
+    "yearPub": 2021,
+    "playerMin": 1,
+    "playerMax": 4,
+    "durationMinutesMin": 60,
+    "durationMinutesMax": 120,
+    "age": 14,
+    "description": "Dune Imperium est un jeu qui s'inspire des éléments et des personnages de l'héritage de Dune, à la fois le nouveau film de Legendary Pictures et la série littéraire de Frank Herbert, Brian Herbert et Kevin J. Anderson. En tant que chef de l'une des grandes maisons du Landsraad, levez votre bannière et rassemblez vos forces et vos espions. La guerre arrive et au centre du conflit se trouve Arrakis - Dune, la planète du désert. Dune Imperium utilise le deck building pour ajouter un angle d'information caché au placement traditionnel des travailleurs."
+  },
+  {
+    "title": "Everdell",
+    "cover": "IMG-007.webp",
+    "yearPub": 2021,
+    "playerMin": 1,
+    "playerMax": 4,
+    "durationMinutesMin": 40,
+    "durationMinutesMax": 80,
+    "age": 14,
+    "description": "Au fin fond du royaume d'Everdell, se trouve une petite ville habitée par des animaux forestiers qui se développe et prospère à travers les âges. Malgré un cadre idyllique, la vie n'y est pas facile. Les hivers sont rudes et tous les habitants d'Everdell luttent chaque année pour construire le nécessaire pour tenir jusqu'au retour du printemps.Dans ce jeu de placement d'ouvriers et de construction de tableaux, vous aurez des bâtiments à construire, des personnages passionnants à rencontrer et des événements à gérer. Vous l'aurez compris, vous ne vous ennuierez pas à Everdell."
+  },
+  {
+    "title": "Fiesta de los muertos",
+    "cover": "IMG-008.webp",
+    "yearPub": 2019,
+    "playerMin": 4,
+    "playerMax": 8,
+    "durationMinutesMin": 15,
+    "durationMinutesMax": 15,
+    "age": 12,
+    "description": "Lors de la \"fiesta de los muertos\", les morts sont de retour et ils n'ont peur que d'une chose, que l'on ne se souvienne plus d'eux. En effet, tant qu'on pense à lui, un mort n'est jamais vraiment mort, mais si on l'oublie… alors il erre pour l'éternité ! Alors saurez-vous vous souvenir de tous les défunts présents ce soir ?"
+  },
+  {
+    "title": "Les Aventuriers du Rail",
+    "cover": "IMG-009.webp",
+    "yearPub": 2008,
+    "playerMin": 2,
+    "playerMax": 5,
+    "durationMinutesMin": 45,
+    "durationMinutesMax": 45,
+    "age": 8,
+    "description": "Dans ce jeu, replongez dans l'âge d'or du chemin de fer. Lancez-vous à la conquête du rail et tentez de prendre le contrôle du réseau ferroviaire américain en reliant un maximum de villes entre elles.\nAu début de la partie, chaque joueur doit déterminer ses objectifs à atteindre. Un joueur prend le contrôle d'une ligne en utilisant des cartes de la même couleur que la voie. Pour triomphez de vos adversaires, vous devrez savoir utiliser vos cartes au bon moment et conserver des objectifs à votre portée. Prenez la main sur les voies de chemin de fer et bloquez les autres participants dans leur désir de conquête."
+  },
+  {
+    "title": "Scythe",
+    "cover": "IMG-010.webp",
+    "yearPub": 2017,
+    "playerMin": 1,
+    "playerMax": 5,
+    "durationMinutesMin": 75,
+    "durationMinutesMax": 150,
+    "age": 14,
+    "description": "Dans Scythe, vous incarnez un héros à la tête d'une des cinq factions dont le but est d'assurer la suprématie de son peuple par la conquête de territoires. Vous dirigerez ouvriers et soldats afin d'asseoir l'autorité de votre empire. Pour triompher de vos adversaires, vous devrez exploiter vos ressources de manière optimale et gérer votre supériorité technologique."
+  },
+  {
+    "title": "Seasons",
+    "cover": "IMG-011.webp",
+    "yearPub": 2012,
+    "playerMin": 2,
+    "playerMax": 4,
+    "durationMinutesMin": 60,
+    "durationMinutesMax": 60,
+    "age": 14,
+    "description": "Les plus grands sorciers du royaume se sont donnés rendez-vous au cœur de la forêt d’Argos, lieu et place du légendaire tournoi des 12 saisons. A l’issue de 3 années de compétition sera désigné, parmi les nombreux prétendants, le nouvel archimage du royaume de Xidit. En jouant à Seasons, découvrez un jeu de société alliant jeu de draft et jeu de combo. Construisez votre main de cartes en début de partie et tentez d’en tirer le meilleur profit en les jouant au bon moment afin de remporter des cristaux et du prestige, indispensables à votre victoire."
+  },
+  {
+    "title": "Small World",
+    "cover": "IMG-012.webp",
+    "yearPub": 2009,
+    "playerMin": 2,
+    "playerMax": 5,
+    "durationMinutesMin": 75,
+    "durationMinutesMax": 75,
+    "age": 8,
+    "description": "Dans Small World, les joueurs luttent pour conquérir les régions d'un monde où il n'y a pas de place pour tous ! Small World plongera les joueurs dans un monde habité par des nains, des mages, des amazones, des géants, des orcs et même des humains. Ces peuples luttent sans merci en envoyant leurs troupes à la conquête de nouvelles régions : les civilisations les plus faibles seront impitoyablement chassées du monde de Small World !"
+  },
+  {
+    "title": "Splendor",
+    "cover": "IMG-013.webp",
+    "yearPub": 2014,
+    "playerMin": 2,
+    "playerMax": 4,
+    "durationMinutesMin": 30,
+    "durationMinutesMax": 30,
+    "age": 10,
+    "description": "Dans Splendor, vous dirigez une guilde de marchands. A l'aide de jetons symbolisant des pierres précieuses, vous allez acquérir des développements qui produisent de nouvelles pierres (les bonus). Ces bonus réduisent le coût de vos achats et attirent les nobles mécènes.Chaque tour est rapide : une action et une seule ! Observez vos adversaires, anticipez et réservez les bonnes cartes. Le premier joueur à parvenir à quinze points de prestige en cumulant nobles et développements déclenche la fin de la partie."
+  },
+  {
+    "title": "Takenoko",
+    "cover": "IMG-014.webp",
+    "yearPub": 2021,
+    "playerMin": 2,
+    "playerMax": 4,
+    "durationMinutesMin": 45,
+    "durationMinutesMax": 45,
+    "age": 8,
+    "description": "Dans ce jeu tout migon les joueurs incarnent les courtisans de l'empereur nippon. Ils prennent soin de son Grand Panda en aménageant une bambouseraie. Leur mission est de cultiver des parcelles de terrain, les irriguer, et y faire pousser du bambou vert, jaune ou rose."
+  },
+  {
+    "title": "Terraforming Mars",
+    "cover": "IMG-015.webp",
+    "yearPub": 2017,
+    "playerMin": 1,
+    "playerMax": 5,
+    "durationMinutesMin": 90,
+    "durationMinutesMax": 120,
+    "age": 12,
+    "description": "Durant les années 2400, l'humanité commence à terraformer la planète Mars.\nDe géantes corporations initient de vastes projets pour augmenter la température, le niveau d'oxygène et les étendues océaniques jusqu'à rendre la planète habitable. Dans Terraforming Mars, vous jouez l'une de ces corporations et travaillez conjointement au processus de terraformation, mais êtes en compétition pour les points de victoires qui ne sont pas que donnés pour vos efforts à la terraformation, mais aussi pour l'avancement des infrastructures humaines au sein du système solaire."
+  },
+  {
+    "title": "Wingspan",
+    "cover": "IMG-016.webp",
+    "yearPub": 2019,
+    "playerMin": 1,
+    "playerMax": 5,
+    "durationMinutesMin": 40,
+    "durationMinutesMax": 70,
+    "age": 10,
+    "description": "Wingspan est un jeu de plateau de construction de moteurs axé sur la fabrication de cartes.\nVous êtes passionnés d'oiseaux et vous cherchez à découvrir et à attirer les meilleurs oiseaux dans votre volière. Chaque oiseau étend une chaîne de combinaisons puissantes dans l'un de vos habitats."
+  }
+]
