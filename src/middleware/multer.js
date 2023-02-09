@@ -7,8 +7,7 @@ const config = require('../config');
  */
 
 const MIME_TYPES = {
-  'image/jpg': 'jpg',
-  'image/jpeg': 'jpg',
+  'image/jpeg': 'jpeg',
   'image/png': 'png',
   'image/webp': 'webp',
 };
@@ -20,6 +19,8 @@ const storage = multer.diskStorage({
   },
   filename: (req, file, callback) => {
     // récupération extension fichier image envoyé
+    // file.minetype retoune un TYPE MINE (Ex: image/jpeg )
+    // on récupère l'extension associé dans le tableau MINE_TYPES;
     const extension = MIME_TYPES[file.mimetype];
     // renommage fichier avec le timestamp
     callback(null, `IMG-${Date.now()}.${extension}`);
@@ -30,10 +31,8 @@ const storage = multer.diskStorage({
 const fileFilter = (req, file, cb) => {
   if (
     file.mimetype === 'image/jpeg'
-      || file.mimetype === 'image/jpg'
-      || file.mimetype === 'image/png'
-      || file.mimetype === 'image/png'
-      || file.mimetype === 'image/webp'
+    || file.mimetype === 'image/png'
+    || file.mimetype === 'image/webp'
   ) {
     cb(null, true);
   } else {

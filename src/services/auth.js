@@ -19,7 +19,6 @@ class AuthService {
    * @function getToken
    * @return {string} - Return a token
    */
-
   genToken(user) {
     const token = jwt.sign(
       { username: user.username },
@@ -33,7 +32,7 @@ class AuthService {
    *
    * @param {*} username
    * @param {*} password
-   * @returns {string} - Return a token
+   * @return {Promise<string>} - Return a token
    */
   async login(username, password) {
     try {
@@ -45,7 +44,7 @@ class AuthService {
       if (user === null) {
         throw new Error('username not exist');
       }
-      // vérification du mot de passe
+      // password verification
       const passwordIsValid = await bcrypt.compare(password, user.password);
       if (!passwordIsValid) {
         throw new Error('invalid password');
@@ -53,7 +52,7 @@ class AuthService {
       const token = this.genToken(user);
       return token;
     } catch (err) {
-      throw new Error(err);
+      throw new Error('login failed');
     }
   }
 }

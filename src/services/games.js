@@ -26,7 +26,7 @@ class GameService {
   }
 
   /**
-   * Sequelize query - retrieve aa game by id
+   * Sequelize query - retrieve a game by id
    *
    * @async
    * @function getById
@@ -115,7 +115,7 @@ class GameService {
    * @async
    * @function isExist
    * @param {number} id - Game id in database
-   * @return {boolean}
+   * @return {Promise<boolean>}
    */
   async isExist(id) {
     try {
