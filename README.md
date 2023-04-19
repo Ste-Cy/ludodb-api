@@ -9,4 +9,3 @@
 
 API REST pour l'application de gestion de ludothèque personnelle **LudoDB**.
 
-Projet developpé dans le cadre de ma formation CDA chez [Digifab](https://github.com/digifab-dev).
